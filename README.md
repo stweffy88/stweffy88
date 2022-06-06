@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stweffy88
 - 👀 I’m interested in: TTRPG, explorations of time travel in TV/movies/literature.
-- 🌱 I’m currently learning: HTML, CSS & JavaScript in the General Assembly part-time Front-End Web Development course.
+- 🌱 I’m currently exploring: HTML, CSS & JavaScript after completing the General Assembly part-time Front-End Web Development course.
 - 💞️ I’m looking to collaborate on: JavaScript, Flexbox, Grid, Responsive Design & HTML with accessibility as a priority. 
 - 📫 How to reach me: @stweffy_88 on Instagram, Twitter & Reddit. I also sing on my YouTube channel - @stweffy.
 
